@@ -1,0 +1,36 @@
+settlement_id,settlement_name,settlement_type,ward_code,ward_name,lga_code,lga_name,longitude,latitude,target_population_under5
+S01933,Ibngofa-Gabas,Settlement,W030,YERIDE,LGA04,Ilela,7.983709531247099,10.60637,59.0
+S01009,Addedu,Urban block,W014,Bishama,LGA01,Idi-Oro,7.426238,11.458125,370.0
+S01074,Waride-Tsakiya,Village,W014,Bishama,LGA01,Idi-Oro,7.454101,11.454705,62.0
+S01046,Losami,Settlement,W014,Bishama,LGA01,Idi-Oro,7.425126,11.442354,66.0
+S01050,Rishayi,Settlement,W014, Bishama ,LGA01,Idi-Oro,7.528965,11.541406,67.0
+S01089,Agzani,Urban block,W014,Bishama,LGA01,Idi-Oro,7.389923,11.458221,319.0
+S01006,Donasa,Village,W014,Bishama,LGA01,Idi-Oro,7.445152,11.486861,45.0
+S02012,Adyodu,Hamlet,W031,Satide,LGA03,Katsuma,7.897130150087383,11.319106,24.0
+S01035,Okberi,Village,W014,Bishama,LGA01,Idi-Oro,7.374161,11.475138,71.0
+S01062,Dabemi,Village,W014,Bishama,LGA01,Idi-Oro,7.502594,11.518911,97.0
+S01024,Enlana,Urban block,W014,Bishama,LGA01,Idi-Oro,7.374387,11.488808,560.0
+S00998,Damade,Settlement,W014,Bishama,LGA01,Idi-Oro,7.393801,11.474904,62.0
+S00177,Ibritu,Village,W002,Ekduru,LGA01,Idi-Oro,6.954388115003849,10.889388,118.0
+S01029,Kuyowa,Urban block,W014,Bishama,LGA01,Idi-Oro,7.506946,11.569407,225.0
+S01027,Suwama,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.371653,11.452472,37.0
+S01019,Zaderu-Kudu,Settlement,W014,Bishama,LGA01,Idi-Oro,7.488691,11.493725,104.0
+S01057,Gulawa,Settlement,W014,Bishama,LGA01,Idi-Oro,7.415798,11.444227,125.0
+S01084,Uzlule,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.50598,11.518342,31.0
+S01036,Mazama,Urban block,W014,Bishama,LGA01,Idi-Oro,7.511266,11.469708,425.0
+S02017,Sujide,Village,W031,Satide,LGA03,Katsuma,7.893140712319378,11.410192,118.0
+S01007,Sawashi,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.386168,11.440732,18.0
+S02283,Enbedu,Village,W036,Mawako,LGA04,Ilela,8.036254686711377,10.758374,68.0
+S01039,Guyona-Kofar,Village,W014,Bishama,LGA01,Idi-Oro,7.479075,11.516129,193.0
+S01067,Tanani,Village,W014,Bishama,LGA01,Idi-Oro,7.496128,11.516287,21.0
+S01064,Sanatu,Urban block,W014,Bishama,LGA01,Idi-Oro,7.500541,11.513745,387.0
+S01020,Ekyoni-Sabo,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.405432,11.431155,29.0
+S01026,Dokoja,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.491483,11.495231,34.0
+S01350,Enwatu,Settlement,W018,Adwana,LGA02,Gwarin,7.637722200850346,10.711325,20.0
+S01022,Yekoja,Village,W014,Bishama,LGA01,Idi-Oro,7.402477,11.506913,206.0
+S02074,Jingode,Settlement,W032,Bisani-Gabas,LGA04,Ilela,7.991996749463848,10.914919,18.0
+S00425,Kawama,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.133459590526011,11.188759,36.0
+S01058,Salatu,Hamlet,W014,BISHAMA,LGA01,Idi-Oro,7.509784,11.49321,43.0
+S01060,Okdedu,Settlement,W014,Bishama,LGA01,Idi-Oro,7.427852,11.48828,32.0
+S02198,Enbani,Village,W034,Dodeta,LGA03,Katsuma,8.023746580490336,11.209742,98.0
+S01025,Irdude,Urban block,W014,Bishama,LGA01,Idi-Oro,7.373644,11.46827,539.0

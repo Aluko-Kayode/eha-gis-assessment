@@ -1,0 +1,254 @@
+settlement_id,settlement_name,settlement_type,ward_code,ward_name,lga_code,lga_name,longitude,latitude,target_population_under5
+S01213,Sadewo,Village,W015,Baluru,LGA01,Idi-Oro,7.700103,11.283331,86.0
+S01977,Kushama,Hamlet,W030,Yeride,LGA04,Ilela,7.88339,10.630549,46.0
+S01577,Dobaru,Village,W022,Sudefa,LGA03,Katsuma,8.058061,11.527257,107.0
+S00442,Enlale,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.149112,11.306452,40.0
+S01715,Jitsiri,Urban block,W026,Kungomi,LGA03,Katsuma,7.749957,11.411481,184.0
+S01411,Gutini,Settlement,W019,Umzaba-Kofar,LGA04,Ilela,7.562944,11.037024,35.0
+S00355,Ibsasa,Hamlet,W004,Yesawo,LGA02,Gwarin,7.261598,10.607048,8.0
+D01074,Waride-Tsakiya,Village,W014, Bishama ,LGA01,Idi-Oro,7.448667,11.452175,62.0
+S00657,Eklade,Settlement,W007,Bayoyi,LGA01,Idi-Oro,7.362609,11.242195,26.0
+S01735,Bikowo,Village,W026,Kungomi,LGA03,Katsuma,7.776751,11.441405,116.0
+S01768,Rinana,Village,W027,Daberi,LGA03,Katsuma,7.891669,11.378252,94.0
+S01944,Satsiyi-Gabas,Hamlet,W030,Yeride,LGA04,Ilela,8.03489,10.557761,20.0
+S01517,Jisami,Hamlet,W021,Yezata,LGA02,Gwarin,7.887323,10.549489,13.0
+S00995,Gubale,Urban block,W013,Sashako,LGA02,Gwarin,7.591148989856912,10.537226,210.0
+S01051,Okshami-Yamma,Village,W014,Bishama,LGA01,Idi-Oro,7.468209,11.47367,64.0
+S01360,Kukota-Yamma,Hamlet,W018,Adwana,LGA02,Gwarin,7.628362,10.621635,17.0
+S01098,Domadu,Urban block,W015,Baluru,LGA01,Idi-Oro,7.693626,11.280297,105.0
+S01545,Ibtide-Tudun,Village,W021,Yezata,LGA02,Gwarin,7.900657,10.477311,62.0
+S02101,Nutita,Hamlet,W033,Tasayi,LGA03,Katsuma,7.968094,11.176018,20.0
+S01802,Tajisa-Tsakiya,Hamlet,W028,Wangoja,LGA04,Ilela,7.996274,10.754299,14.0
+S00522,Losale,Village,W006,Okradu,LGA01,Idi-Oro,7.26578,11.151469,201.0
+S00257,Uzyori,Urban block,W003,Satita,LGA01,Idi-Oro,7.217871,10.957419,403.0
+S02412,Fanale,Village,W038,Sashasa,LGA03,Katsuma,8.354472,11.397394,3.0
+D01765,Okshawo,Village,W027,Daberi,LGA03,Katsuma,7.908414,11.49693,89.0
+S02141,Umlari,Village,W033,Tasayi,LGA03,Katsuma,7.958567,11.161112,40.0
+D01536,Irraba,Village,W021,Yezata,LGA02,Gwarin,7.826894,10.623987,20.0
+S00122,Zajija,Village,W002,Ekduru,LGA01,Idi-Oro,7.192763,10.730917,26.0
+S02314,Nutsifa-Gabas,Hamlet,W037,Longoma,LGA03,Katsuma,8.240758,11.462606,26.0
+S01292,Irduma-Gabas,Hamlet,W017,Bazasa,LGA03,Katsuma,7.583243,11.567145,19.0
+S00196,Zakotu-Tsakiya,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.16566,10.810034,19.0
+S00386,Yezatu,Hamlet,W005,Jijile,LGA02,Gwarin,7.388505,10.719992,10.0
+S00506,Surashi-Kudu,Urban block,W006,Okradu,LGA01,Idi-Oro,7.191035,11.26303,223.0
+S01979,Irluna,Village,W030,Yeride,LGA04,Ilela,7.93322,10.545773,194.0
+S00392,Jidule,Hamlet,W005,Jijile,LGA02,Gwarin,7.298727,10.751518,3.0
+S00405,Enmashi,Hamlet,W005,Jijile,LGA02,Gwarin,7.366395,10.70447,20.0
+D01632,Numatu,Village,W023,Suwade,LGA03,Katsuma,7.802595,11.257456,27.0
+S01814,Yezashi,Hamlet,W028,Wangoja,LGA04,Ilela,7.979072,10.790237,17.0
+S02445,Risawa-Yamma,Village,W039,Nungoni-Arewa,LGA04,Ilela,8.25922,10.827732,39.0
+S01463,Hayole,Village,W020,Famade,LGA01,Idi-Oro,7.682647,11.155914,101.0
+S01214,Tasaja,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.536631,11.271653,83.0
+S01984,Umrade,Hamlet,W030,Yeride,LGA04,Ilela,7.883379,10.673027,3.0
+S02342,Oktsimi-Gabas,Hamlet,W037,Longoma,LGA03,Katsuma,8.207621,11.538552,32.0
+D00347,Fabemi-Kofar,Village,W004,Yesawo,LGA02,Gwarin,7.263082,10.608458,29.0
+S01601,Dotima-Kofar,Village,W023,Suwade,LGA03,Katsuma,7.823697,11.246378,41.0
+S02411,Riyoja,Village,W038,Sashasa,LGA03,Katsuma,8.350738,11.401157,153.0
+S01522,Fangota,Village,W021,Yezata,LGA02,Gwarin,7.858724,10.541522,13.0
+S00803,Fanashi,Settlement,W009, Washatu ,LGA02,Gwarin,7.571068,10.965947,89.0
+S01028,Jidetu,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.518282,11.493316,71.0
+S01739,Olzawa,Settlement,W026,Kungomi,LGA03,Katsuma,7.757164,11.437726,39.0
+S00049,Kadudu,Village,W001,Ekngoyi,LGA01,Idi-Oro,7.051484,11.104887,184.0
+S00262,Kudewa-Kofar,Hamlet,W003,Satita,LGA01,Idi-Oro,7.250187,11.117289,48.0
+S02332,Kuyowo-Yamma,Village,W037,Longoma,LGA03,Katsuma,8.240808,11.46599,20.0
+S01306,Hatsima-Tudun,Hamlet,W017,Bazasa,LGA03,Katsuma,7.636696,11.525499,31.0
+S01754,Jikoshi,Settlement,W026,Kungomi,LGA03,Katsuma,7.736291,11.535166,30.0
+S01598,Mazani-Gabas,Urban block,W023,SUWADE,LGA03,Katsuma,7.919383,11.213561,175.0
+S00537,Bikofa-Arewa,Hamlet,W007,Bayoyi,LGA01,Idi-Oro,7.331118,11.162352,17.0
+D01757,Ibsaru,Village,W027,Daberi,LGA03,Katsuma,7.926575,11.458277,57.0
+S02389,Watide,Settlement,W038,Sashasa,LGA03,Katsuma,8.238541,11.363782,41.0
+S01220,Fatsiwo-Yamma,Urban block,W015,Baluru,LGA01,Idi-Oro,7.540551,11.296309,988.0
+S00487,Jirita,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.232311,11.160556,62.0
+S02245,Nuduma-Tsakiya,Village,W035,Dazata,LGA04,Ilela,8.278036,10.931459,24.0
+S02258,Takoja-Arewa,Settlement,W035,Dazata,LGA04,Ilela,8.211828,10.993687,50.0
+D01917,Haraja-Kudu,Village,W029,Wangoni,LGA04,Ilela,7.995142,10.988106,49.0
+S01632,Numatu,Village,W023,Suwade,LGA03,Katsuma,7.80699,11.255603,27.0
+D01108,Iryoko,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.539606,11.17483,34.0
+S02153,Umnade,Hamlet,W033,Tasayi,LGA03,Katsuma,8.00555,11.191882,29.0
+D00363,Dolaja,Village,W004,Yesawo,LGA02,Gwarin,7.153615,10.667788,17.0
+S01285,Adduna,Settlement,W017,Bazasa,LGA03,Katsuma,7.565983,11.392797,7.0
+S01675,Dangowo-Gabas,Hamlet,W025,Okriba,LGA04,Ilela,7.846773,10.937955,16.0
+S00913,Nuradu,Hamlet,W011,Enyoko-Kofar,LGA02,Gwarin,7.67595,10.434364,43.0
+S02325,Kadule,Village,W037,Longoma,LGA03,Katsuma,8.215632,11.572282,73.0
+S01538,Ibshami,Hamlet,W021, Yezata ,LGA02,Gwarin,7.891864,10.518849,4.0
+S00692,Kurana,Village,W008,Umyosa,LGA01,Idi-Oro,7.183049,10.929155,71.0
+S00486,Zanaru,Urban block,W006,Okradu,LGA01,Idi-Oro,7.15484,11.206267,325.0
+S01769,Irshaja-Sabo,Urban block,W027,Daberi,LGA03,Katsuma,7.909526,11.469198,228.0
+S00858,Jiyole-Yamma,Village,W010,Fazafa,LGA02,Gwarin,7.478745,10.808104,60.0
+S00187,Adkoyi,Village,W002,Ekduru,LGA01,Idi-Oro,7.012608,10.891674,311.0
+S00598,Ibjimi-Sabo,Village,W007,Bayoyi,LGA01,Idi-Oro,7.311707,11.21454,215.0
+S00837,Biyomi,Hamlet,W010,Fazafa,LGA02,Gwarin,7.486305,10.798827,15.0
+S01997,Zademi,Hamlet,W031,Satide,LGA03,Katsuma,8.053359,11.27231,26.0
+S00126,Uzshani,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.220297,10.799302,38.0
+S01750,Kalari,Hamlet,W026,Kungomi,LGA03,Katsuma,7.773844,11.400446,28.0
+S02230,Uznari,Village,W035,Dazata,LGA04,Ilela,8.231968,11.02274,80.0
+S00094,Fakoshi,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.050521,10.965321,24.0
+S01638,Dadeta,Village,W024,Kuraba-Kofar,LGA04,Ilela,7.790494,10.682809,52.0
+S02033,Tashata,Village,W031,Satide,LGA03,Katsuma,7.909835,11.337081,74.0
+S00208,Okzatu,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.177691,10.784757,43.0
+S01943,Suriri,Village,W030,Yeride,LGA04,Ilela,7.925796,10.621056,63.0
+D00083,Nuwaja,Urban block,W001,Ekngoyi,LGA01,Idi-Oro,7.103096,10.983362,236.0
+S00195,Mashafa,Village,W002,Ekduru,LGA01,Idi-Oro,7.088684,10.728512,118.0
+S02341,Yerana,Hamlet,W037,Longoma,LGA03,Katsuma,8.188294,11.530441,27.0
+S01265,Kawade,Settlement,W016,Uzritu,LGA02,Gwarin,7.492622,10.454432,69.0
+S00169,Surasa,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.103629,10.779009,39.0
+S00931,Rijidu,Hamlet,W012,Darari,LGA02,Gwarin,7.334347,10.527604,38.0
+S01045,Rilana,Settlement,W014,Bishama,LGA01,Idi-Oro,7.390821,11.469407,104.0
+S00843,Bibeyi,Village,W010,Fazafa,LGA02,Gwarin,7.411834,10.868903,130.0
+S02009,Yeladu,Hamlet,W031,Satide,LGA03,Katsuma,7.938448,11.318772,16.0
+S00329,Ibshaja,Hamlet,W004,Yesawo,LGA02,Gwarin,7.248575,10.57124,9.0
+S01727,Fajiru,Village,W026,Kungomi,LGA03,Katsuma,7.7491,11.435383,15.0
+S01023,Guraja,Village,W014,Bishama,LGA01,Idi-Oro,7.381531,11.47916,105.0
+S00920,Farasa,Hamlet,W011,Enyoko-Kofar,LGA02,Gwarin,7.726038,10.402832,4.0
+S01571,Enraja,Hamlet,W022,Sudefa,LGA03,Katsuma,8.199674,11.441283,14.0
+S01723,Ibjidu,Settlement,W026,Kungomi,LGA03,Katsuma,7.728521,11.515566,59.0
+S00310,Karitu,Village,W003,Satita,LGA01,Idi-Oro,7.422673,10.983563,246.0
+S00625,Suyoru,Village,W007,Bayoyi,LGA01,Idi-Oro,7.404363,11.258472,62.0
+S02442,Watsitu,Village,W039,Nungoni-Arewa,LGA04,Ilela,8.346556,10.900473,28.0
+D00555,Malusa,Village,W007,Bayoyi,LGA01,Idi-Oro,7.365032,11.252864,160.0
+S01511,Oknani,Settlement,W020,Famade,LGA01,Idi-Oro,7.682918,11.184898,45.0
+S01286,Saluba,Village,W017,Bazasa,LGA03,Katsuma,7.510887,11.406867,101.0
+S00347,Fabemi-Kofar,Village,W004,Yesawo,LGA02,Gwarin,7.26264,10.607177,29.0
+S00915,Gurija,Hamlet,W011,Enyoko-Kofar,LGA02,Gwarin,7.717925,10.487689,30.0
+S02027,Zarisa,Hamlet,W031,Satide,LGA03,Katsuma,8.074695,11.280881,29.0
+S01016,Rimadu,Village,W014,Bishama,LGA01,Idi-Oro,7.438751,11.471125,84.0
+S01272,Gushawa,Village,W016,Uzritu,LGA02,Gwarin,7.55458,10.456223,93.0
+S00114,Gubade-Tsakiya,Urban block,W001,Ekngoyi,LGA01,Idi-Oro,7.084167,10.9833,316.0
+S00452,Kalude,Village,W006,Okradu,LGA01,Idi-Oro,7.252446,11.263598,73.0
+S00233,Yengole-Gabas,Hamlet,W003,Satita,LGA01,Idi-Oro,7.250355,11.094596,
+S01242,Olratu,Village,W016,Uzritu,LGA02,Gwarin,7.570491,10.503526,75.0
+S01300,Lokofa-Yamma,Hamlet,W017,Bazasa,LGA03,Katsuma,7.576572,11.406937,15.0
+S00407,Agmaru,Hamlet,W005,Jijile,LGA02,Gwarin,7.358481,10.726668,11.0
+S00504,Enngori,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.234664,11.380289,80.0
+S01630,Uzdudu,Village,W023,Suwade,LGA03,Katsuma,7.811477,11.246627,78.0
+S01377,Adrishi,Village,W019,UMZABA-KOFAR,LGA04,Ilela,7.578763,10.975723,94.0
+S01080,Adngodu,Village,W014,Bishama,LGA01,Idi-Oro,7.419894,11.42248,151.0
+S00697,Agngoba,Village,W008,Umyosa,LGA01,Idi-Oro,7.444948,10.956667,187.0
+S00766,Umngosa,Hamlet,W008,Umyosa,LGA01,Idi-Oro,7.195256,10.913514,14.0
+S02349,Nunani-Kudu,Hamlet,W037,Longoma,LGA03,Katsuma,8.208408,11.565979,62.0
+S01232,Irraja,Urban block,W016, Uzritu ,LGA02,Gwarin,7.56504,10.43052,72.0
+S00299,Enshawa,Urban block,W003,Satita,LGA01,Idi-Oro,7.209381,11.069743,431.0
+S02276,Ibsade,Village,W035,Dazata,LGA04,Ilela,8.230861,11.030236,47.0
+S01076,Matsiwo,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.42045,11.45408,27.0
+S01496,Sabeyi,Village,W020,Famade,LGA01,Idi-Oro,7.727791,11.215979,99.0
+S01736,Adduwo,Settlement,W026,Kungomi,LGA03,Katsuma,7.70389,11.544319,138.0
+S00640,Sazaja,Hamlet,W007,Bayoyi,LGA01,Idi-Oro,7.312417,11.387289,69.0
+S00595,Ekdusa,Settlement,W007,Bayoyi,LGA01,Idi-Oro,7.448747,11.292416,43.0
+S01047,Yetide,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.518874,11.497556,45.0
+D00320,Gusawo,Village,W003,Satita,LGA01,Idi-Oro,7.195917,11.024472,168.0
+S01932,Salawo,Hamlet,W030,Yeride,LGA04,Ilela,7.930858,10.598964,18.0
+S00004,Dosari,Village,W001,Ekngoyi,LGA01,Idi-Oro,7.161071,11.093949,96.0
+S00470,Enzawo,Urban block,W006,Okradu,LGA01,Idi-Oro,7.242573,11.250963,259.0
+S01600,Dashami,Hamlet,W023,Suwade,LGA03,Katsuma,7.827318,11.260695,6.0
+D02192,Gunari,Settlement,W034,Dodeta,LGA03,Katsuma,8.111557,11.191186,12.0
+S00095,Kashako,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.02251,11.009713,30.0
+D01839,Gutsile,Village,W028,Wangoja,LGA04,Ilela,7.883779,10.864316,50.0
+S01001,Ibtini-Kofar,Settlement,W014,Bishama,LGA01,Idi-Oro,7.54371,11.569928,24.0
+S01622,Gubasa,Village,W023,Suwade,LGA03,Katsuma,7.821171,11.283114,78.0
+S02145,Enshaja,Village,W033,Tasayi,LGA03,Katsuma,7.974749,11.182142,78.0
+S01643,Yengori,Village,W024,Kuraba-Kofar,LGA04,Ilela,7.788318,10.824884,113.0
+S01188,Darile-Arewa,Village,W015,Baluru,LGA01,Idi-Oro,7.538967,11.281896,118.0
+S00665,Irsale,Hamlet,W008,Umyosa,LGA01,Idi-Oro,7.161797,10.923225,41.0
+S01760,Rilana-Kudu,Hamlet,W027,Daberi,LGA03,Katsuma,7.894834,11.46639,14.0
+D00943,Kuriwo,Village,W012,Darari,LGA02,Gwarin,7.406669,10.45335,9.0
+S02138,Umduma,Village,W033,Tasayi,LGA03,Katsuma,8.017619,11.17765,65.0
+S01668,Uzngomi,Village,W024,Kuraba-Kofar,LGA04,Ilela,7.817669,10.696938,37.0
+S02413,Jidede,Village,W038,Sashasa,LGA03,Katsuma,8.360602,11.386577,30.0
+S02278,Adduri,Urban block,W036,Mawako,LGA04,Ilela,8.074167,10.736342,255.0
+S01566,Karimi-Kudu,Village,W022,Sudefa,LGA03,Katsuma,8.098029,11.565339,38.0
+D00230,Entile-Yamma,Village,W003,Satita,LGA01,Idi-Oro,7.436794,11.044931,52.0
+S00078,Lolale,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.047479,11.0183,18.0
+S00099,Ribeni,Village,W001,Ekngoyi,LGA01,Idi-Oro,7.05907,10.958079,63.0
+S02028,Ennami-Sabo,Hamlet,W031,Satide,LGA03,Katsuma,7.947958,11.361963,20.0
+D00511,Jiyoni,Village,W006,Okradu,LGA01,Idi-Oro,7.255908,11.270816,213.0
+S01049,Talusa,Urban block,W014,Bishama,LGA01,Idi-Oro,7.547972,11.517211,372.0
+S01321,Agkoja,Village,W017,Bazasa,LGA03,Katsuma,7.606978,11.412736,75.0
+S01037,Kabeyi-Arewa,Village,W014,Bishama,LGA01,Idi-Oro,7.489201,11.471158,166.0
+S01985,Nulule,Urban block,W030,Yeride,LGA04,Ilela,8.0036,10.566888,317.0
+S02120,Subewa-Kudu,Hamlet,W033,Tasayi,LGA03,Katsuma,8.067918,11.232669,13.0
+S00137,Lotisa,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.069988,10.783365,32.0
+S01091,Ritiru,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.48468,11.513954,43.0
+S01031,Nurima,Urban block,W014,Bishama,LGA01,Idi-Oro,7.479367,11.453805,147.0
+S00394,Olbana-Tsakiya,Village,W005,Jijile,LGA02,Gwarin,7.358284,10.704053,134.0
+S01542,Daluta,Settlement,W021,Yezata,LGA02,Gwarin,7.725235,10.55961,65.0
+S02510,Adlude,Village,W040,Gujiri,LGA04,Ilela,8.402551,11.203558,37.0
+S01319,Kajiba,Village,W017,Bazasa,LGA03,Katsuma,7.533401,11.383324,49.0
+S02046,Gurami,Village,W031,Satide,LGA03,Katsuma,8.013759,11.259834,24.0
+S00092,Agtsiko-Gabas,Village,W001,Ekngoyi,LGA01,Idi-Oro,7.159108,11.092896,90.0
+S00365,Lotide-Kofar,Hamlet,W004,Yesawo,LGA02,Gwarin,7.212726,10.690471,13.0
+S00075,Fashale-Kofar,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.080786,11.001601,71.0
+S00060,Fanaja,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.152214,11.045123,29.0
+S00492,Suludu,Urban block,W006,Okradu,LGA01,Idi-Oro,7.17985,11.356634,360.0
+S00056,Ibrawo,Urban block,W001,Ekngoyi,LGA01,Idi-Oro,7.035921,11.035611,666.0
+S01523,Adlufa,Village,W021,Yezata,LGA02,Gwarin,7.871392,10.515694,34.0
+S01206,Bashashi,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.557546,11.269784,49.0
+S00490,Ibsayi,Urban block,W006,Okradu,LGA01,Idi-Oro,7.1764,11.333968,536.0
+S02503,Harashi,Settlement,W040,Gujiri,LGA04,Ilela,8.392489,11.194898,15.0
+S00949,Ennale,Village,W012,Darari,LGA02,Gwarin,7.365524,10.511387,15.0
+S02178,Ekzaru,Village,W034,Dodeta,LGA03,Katsuma,8.129364,11.19837,62.0
+S02142,Balawo-Kofar,Hamlet,W033,Tasayi,LGA03,Katsuma,7.985631,11.177647,35.0
+S00513,Okshami,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.144084,11.280733,18.0
+S00437,Subatu,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.188853,11.346574,61.0
+S00273,Kamata,Urban block,W003,Satita,LGA01,Idi-Oro,7.271782,11.003609,139.0
+S02513,Ekmako,Hamlet,W040,Gujiri,LGA04,Ilela,8.40681,11.21643,25.0
+S02404,Fawashi,Village,W038,Sashasa,LGA03,Katsuma,8.29263,11.254938,49.0
+S02295,Uzmata-Kofar,Hamlet,W036,Mawako,LGA04,Ilela,8.109552,10.735146,22.0
+S00098,Halusa,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.178503,11.135529,28.0
+S01161,Kumako-Sabo,Village,W015,Baluru,LGA01,Idi-Oro,7.493273,11.204919,108.0
+S01201,Loyoru-Sabo,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.719601,11.291178,11.0
+S00127,Ollawo,Hamlet,W002,Ekduru,LGA01,Idi-Oro,7.069231,10.778969,7.0
+S00570,Dabeko-Tsakiya,Settlement,W007,BAYOYI,LGA01,Idi-Oro,7.436254,11.140118,74.0
+S01083,Agbele,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.404375,11.431611,14.0
+S00507,Ibdeba,Hamlet,W006,Okradu,LGA01,Idi-Oro,7.254299,11.212543,56.0
+S02132,Ektsina,Village,W033,Tasayi,LGA03,Katsuma,8.042933,11.220294,80.0
+S00280,Gulasa-Sabo,Village,W003,Satita,LGA01,Idi-Oro,7.211033,10.972331,34.0
+D00578,Zabeta,Hamlet,W007,Bayoyi,LGA01,Idi-Oro,7.338725,11.226629,17.0
+S02364,Zaluna-Arewa,Urban block,W038,Sashasa,LGA03,Katsuma,8.415099,11.308987,140.0
+S01757,Ibsaru,Village,W027,Daberi,LGA03,Katsuma,7.930676,11.458423,57.0
+S01589,Wabami,Hamlet,W022,Sudefa,LGA03,Katsuma,8.113387,11.545842,20.0
+S00973,Kushadu,Hamlet,W013,Sashako,LGA02,Gwarin,7.506095,10.675748,54.0
+S02463,Waduni,Village,W039,Nungoni-Arewa,LGA04,Ilela,8.234024,10.816212,39.0
+S00336,Jimaba,Village,W004,Yesawo,LGA02,Gwarin,7.21734,10.693585,58.0
+S01712,Wajile,Village,W026,Kungomi,LGA03,Katsuma,7.750473,11.536484,76.0
+D00246,Rimafa-Kudu,Urban block,W003,Satita,LGA01,Idi-Oro,7.255512,10.979302,567.0
+S00448,Bayode,Settlement,W006,Okradu,LGA01,Idi-Oro,7.27914,11.214203,46.0
+S00042,Damako,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.08705,11.137163,34.0
+S01472,Kashashi-Gabas,Hamlet,W020,Famade,LGA01,Idi-Oro,7.754034,11.151403,6.0
+S01573,Habami,Hamlet,W022,Sudefa,LGA03,Katsuma,8.093876,11.521774,37.0
+S02331,Warako-Yamma,Village,W037,Longoma,LGA03,Katsuma,8.179667,11.517216,90.0
+S00176,Agjiyi,Village,W002,Ekduru,LGA01,Idi-Oro,7.046831,10.932364,81.0
+S01474,Nusale,Hamlet,W020,Famade,LGA01,Idi-Oro,7.686951,11.179084,50.0
+S00111,Biduja-Sabo,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.155659,11.166784,28.0
+S00194,Enmari,Village,W002,Ekduru,LGA01,Idi-Oro,7.110602,10.718336,187.0
+S00800,Uzdemi,Village,W009,Washatu,LGA02,Gwarin,7.532793,10.846289,60.0
+S00592,Sariwa-Gabas,Village,W007,Bayoyi,LGA01,Idi-Oro,7.36356,11.164167,223.0
+S01711,Bibewa,Settlement,W026,Kungomi,LGA03,Katsuma,7.764196,11.416421,65.0
+S00734,Riluko,Urban block,W008,Umyosa,LGA01,Idi-Oro,7.363861,10.902883,692.0
+S01627,Yeshako-Arewa,Settlement,W023,Suwade,LGA03,Katsuma,7.845312,11.284221,34.0
+S01761,Hariko-Yamma,Village,W027,Daberi,LGA03,Katsuma,7.942276,11.446681,89.0
+S02181,Sabayi,Village,W034,Dodeta,LGA03,Katsuma,8.250834,11.228463,24.0
+S02193,Nujishi,Hamlet,W034,Dodeta,LGA03,Katsuma,8.132599,11.187271,23.0
+S02186,Wazana-Tudun,Village,W034,Dodeta,LGA03,Katsuma,8.126068,11.187414,53.0
+S00253,Sukosa,Village,W003,Satita,LGA01,Idi-Oro,7.22908,11.066524,182.0
+S02265,Hanale,Village,W035,Dazata,LGA04,Ilela,8.229618,10.976547,137.0
+S02346,Matidu,Hamlet,W037,Longoma,LGA03,Katsuma,8.210729,11.541953,6.0
+S01000,Nudule,Village,W014,Bishama,LGA01,Idi-Oro,7.539551,11.566747,26.0
+S00238,Olkoshi,Urban block,W003,Satita,LGA01,Idi-Oro,7.438268,11.10261,131.0
+D00184,Bibeko,Settlement,W002,Ekduru,LGA01,Idi-Oro,7.090758,10.798393,71.0
+S01015,Rinaru,Hamlet,W014,Bishama,LGA01,Idi-Oro,7.554224,11.555768,33.0
+S00868,Ibbawo,Hamlet,W010,Fazafa,LGA02,Gwarin,7.474973,10.775624,11.0
+S00754,Ibduja,Urban block,W008,Umyosa,LGA01,Idi-Oro,7.435084,10.952799,254.0
+D01209,Sashale,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.61227,11.279484,35.0
+S00247,Lobadu,Settlement,W003,Satita,LGA01,Idi-Oro,7.210089,11.008765,81.0
+S00081,Haluyi,Hamlet,W001,Ekngoyi,LGA01,Idi-Oro,7.115158,11.028847,96.0
+S01303,Kutiko,Hamlet,W017,Bazasa,LGA03,Katsuma,7.558117,11.385108,4.0
+S01281,Gudeba,Hamlet,W017,Bazasa,LGA03,Katsuma,7.544677,11.382806,14.0
+S00250,Bajifa,Settlement,W003,Satita,LGA01,Idi-Oro,7.288481,11.12125,120.0
+S02396,Adluta,Village,W038,Sashasa,LGA03,Katsuma,8.257204,11.393619,118.0
+S01316,Saluna,Village,W017,Bazasa,LGA03,Katsuma,7.60005,11.408952,69.0
+S02501,Sangota-Kofar,Hamlet,W040,Gujiri,LGA04,Ilela,8.293389,11.222075,37.0
+S00554,Ummari,Hamlet,W007,Bayoyi,LGA01,Idi-Oro,7.321279,11.298483,8.0
+S01308,Olsani,Village,W017, Bazasa ,LGA03,Katsuma,7.539526,11.43052,129.0
+S01219,Kuwawa,Hamlet,W015,Baluru,LGA01,Idi-Oro,7.712858,11.301205,40.0
+S00215,Balutu-Kudu,Settlement,W002,Ekduru,LGA01,Idi-Oro,7.026409,10.856039,94.0
+S00578,Zabeta,Hamlet,W007,Bayoyi,LGA01,Idi-Oro,7.342028,11.227675,17.0
